@@ -60,16 +60,27 @@ Your output video will be saved to `output/briefing_final.mp4`
 
 ```
 output/
-├── narration_00.mp3       # Welcome audio
-├── narration_01.mp3       # Section headers & content audio
-├── ...
-├── full_narration.mp3     # Merged narration track
-├── slide_00_title.png     # Title slide
-├── slide_01_introduction.png
-├── slide_02_key points.png
-├── slide_03_summary.png
-├── slide_05_end.png
-└── briefing_final.mp4     # ✅ Final output video
+├── narration_00.mp3              # Welcome audio
+├── narration_01.mp3              # Introduction header
+├── narration_02.mp3              # Introduction content
+├── narration_03.mp3              # The Tesla Effect header
+├── narration_04.mp3              # The Tesla Effect content
+├── narration_05.mp3              # Battery Technology header
+├── narration_06.mp3              # Battery Technology content
+├── narration_07.mp3              # Policy & Environment header
+├── narration_08.mp3              # Policy & Environment content
+├── narration_09.mp3              # Summary header
+├── narration_10.mp3              # Summary content
+├── narration_11.mp3              # Closing audio
+├── full_narration.mp3            # Merged narration track
+├── slide_00_title.png            # Title slide
+├── slide_01_introduction.png     # Introduction slide
+├── slide_02_the tesla effect.png # The Tesla Effect slide
+├── slide_03_key points.png       # Battery Technology slide
+├── slide_04_policy & environment.png # Policy & Environment slide
+├── slide_05_summary.png          # Summary slide
+├── slide_06_end.png              # End slide
+└── briefing_final.mp4            # ✅ Final output video
 ```
 
 ---
